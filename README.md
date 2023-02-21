@@ -1,9 +1,10 @@
 # Combing-excel-tabs
 
 STATUS:
-  COMPLETE
+  Complete
  
 GOAL:
+  To allow users to merge multiple tables from an excel file into one csv file
   TO ALLOW USER TO MERGE MULTIPLE TABS INTO ONE EXCEL FILE
   
  Requirements: 
@@ -16,3 +17,4 @@ GOAL:
 
 Nuances:
   - first row of the tabs the user wants to merge need to be the headers/column names. 
+  - multi tabs must be done one by one
